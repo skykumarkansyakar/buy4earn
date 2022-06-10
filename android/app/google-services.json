@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656149433945",
+    "firebase_url": "https://buy4earn-96de2.firebaseio.com",
+    "project_id": "buy4earn-96de2",
+    "storage_bucket": "buy4earn-96de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656149433945:android:54b7bdb21c674575b02b48",
+        "android_client_info": {
+          "package_name": "com.buy4earn.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656149433945-3vps7mbdc57so63fujebect9asksvahv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y108IbGbIR6u9AjpefTZVd-ig4TSd14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656149433945-3vps7mbdc57so63fujebect9asksvahv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
